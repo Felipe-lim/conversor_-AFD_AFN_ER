@@ -1,0 +1,8 @@
+alfabeto:a,b
+estados:q0,q1,q2
+inicial:q0
+finais:q2
+transicoes
+q0,q0,a
+q0,q1,b
+q1,q2,a
